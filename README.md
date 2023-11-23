@@ -31,17 +31,15 @@ To use the project you need to install several things :
 
 ## Installation
 
-Download the latest release: [https://github.com/leohuet/MEN_GMU-Strategy/releases](https://github.com/leohuet/MEN_GMU-Strategy/releases)
+Download the latest release:[https://github.com/leohuet/MEN_GMU-Strategy/releases](https://github.com/gmem-cncm/MechaCellSounds/releases/tag/v0.2.0-alpha)
 
 
 ## Opening the project
 
-Once the project downloaded, unzip it. Then, open the Max project by double clicking on ``./Musique-echelle-nano/Musique-echelle-nano.maxproj``. Once opened, the window should look like this : 
-
-<img width="1512" alt="opening_window" src="https://github.com/leohuet/MEN_GMU-Strategy/assets/104456230/1b3ee102-c71d-48cb-a487-85eda6b5e65b">
+Once the project downloaded, unzip it. Then, open the Max project by double clicking on ``./Musique-echelle-nano/Musique-echelle-nano.maxproj``.
 
 
-Here, you can select the number of users needed (you can go up to 10 but I recommend max 5 users).
+Here, you can select the number of users needed (you can go up to 10 but we recommend max 5 users).
 
 
 ## Demo project
@@ -59,4 +57,4 @@ You now have access to the main control panel. It contains several steps :
 
 # Learn more #
 
-For more informations about the project, please refer to the [Wiki](https://github.com/leohuet/MEN_GMU-Strategy/wiki).
+For more informations about the project, please refer to the [Wiki](https://github.com/gmem-cncm/MechaCellSounds/wiki).
